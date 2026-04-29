@@ -1,0 +1,55 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: purple;
+}
+
+p {
+    color: black;
+}
+
+nav {
+    color: blueviolet;
+}
+
+ul {
+    color: blueviolet;
+}
+
+li {
+    color: blueviolet;
+
+}
+
+a {
+    color: green;
+}
+
+form {
+    background-color: rgb(237, 246, 246);
+    border: 2px solid blue;
+}
+
+label {
+    color: red;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+footer {
+    text-align: center;
+    color: red;
+    background-color: lightgray;
+}
